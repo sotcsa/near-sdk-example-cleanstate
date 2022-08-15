@@ -1,4 +1,4 @@
-near-blank-project
+near-sdk-js-example-cleanstate
 ==================
 
 This app was initialized with [create-near-app]
